@@ -1,6 +1,8 @@
 # Development to Deployment of Deep Learning Model (CIFAR10 Dataset) with AWS
 Build a pipeline (development to deployment) involving any DL model for any specific downstream task in AWS. Also provide a web interface to use this deployed model. What are the different ways of deployment in AWS?
 
+Full end to end video Tutorial link: https://drive.google.com/drive/folders/1HVs9jRWjmExZt4AwdiUk8QwDJQ6GayG2?usp=sharing
+ 
 
 Machine and Deep Learning Deployment Project on AWS
 
